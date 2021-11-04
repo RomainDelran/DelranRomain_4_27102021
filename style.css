@@ -1051,9 +1051,13 @@ h4 {
 }
 
 .CitationAuteur{
-    font-size: 1em
+    font-size: 1.2em
 }
 
 .Title2EnTexte{
     font-size: 1.5em;
+}
+
+.TextePlusGros{
+    font-size: 1.2em;
 }
