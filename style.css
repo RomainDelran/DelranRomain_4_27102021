@@ -692,7 +692,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #000000;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -771,7 +771,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #ff9b6d;
+    background-color: #ff7332;
 }
 
 .tc-white {
@@ -779,12 +779,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #ff9b6d;
+    background: #ff7332;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #cf5d28!important;
     color: #FFFFFF!important;
 }
 
@@ -1065,3 +1065,4 @@ h4 {
 .TextePlusGros2{
     font-size: 1.4em;
 }
+
